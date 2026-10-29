@@ -1,5 +1,5 @@
 # Web-API
-[![Web API](https://raw.githubusercontent.com/oxylabs/Web-API/main/web-api-logo.png)]()
+[![Web API](https://raw.githubusercontent.com/oxylabs/Web-API/main/web-api-logo.png)](https://oxylabs.io/products/web-api?utm_content=oxylabs-web-scraper-api&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
